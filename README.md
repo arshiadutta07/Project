@@ -24,7 +24,7 @@ This project is a Blog Post Application API developed using Node.js and Express.
 2. Navigate to the project directory - cd directory.
 3. Install dependencies - npm install.
 4. Set up the MongoDB connection by configuring the .env file.
-5. Run the application.
+5. Run the application - npm start.
 6. The API server will be running on http://localhost:4000.
 
 ## Project Structure
