@@ -20,7 +20,7 @@ This project is a Blog Post Application API developed using Node.js and Express.
 
 ## Installation
 
-1. Clone the repository - 
+1. Clone the repository - https://github.com/arshiadutta07/Project.git.
 2. Navigate to the project directory - cd directory.
 3. Install dependencies - npm install.
 4. Set up the MongoDB connection by configuring the .env file.
